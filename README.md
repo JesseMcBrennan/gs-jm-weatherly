@@ -13,11 +13,9 @@ Weatherly is a dynamic, front-end react application that uses real-time weather 
 
 Upon input of the desired forecast location, users are presented with the current weather for that location along with the next 7 hours consisting of the condition, and projected temperature. After a user toggles the 10 day forecast, they see the condition along with the projected high and low temperatures.
 
-### Design    
+### Design Process
 
 We mocked up the layout using Figma, a component based, in-browser, design tool. It was great to be able to think through the design before writing the code. This helped us get on the same page quickly and begin working with the same designs in mind.
-
-### Figma Design Intent
 
 <img src="https://i.imgur.com/oxKZDul.png" width='600px'>
 
