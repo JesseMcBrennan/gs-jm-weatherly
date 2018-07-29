@@ -21,6 +21,8 @@ We mocked up the layout using Figma, a component based, in-browser, design tool.
 
 <img src="https://i.imgur.com/oxKZDul.png" width='600px'>
 
+### Design Inspiration
+
 Our design intent was based off the Yahoo weather application. We appreciated the simplicity and clean design of the Yahoo weather app. We were inspired by the stark contrast between large and small text. 
 
 <img src="https://i.imgur.com/VQnDtB3.png" width='300px'>
