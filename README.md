@@ -9,6 +9,8 @@ Weatherly is a dynamic, front-end react application that uses real-time weather 
 
 <img src="https://i.imgur.com/tTR2nkE.jpg" width='600px'>
 
+### Live on Heroku: https://gs-jm-weatherly.herokuapp.com/
+
 ### User Interaction 
 
 Upon input of the desired forecast location, users are presented with the current weather for that location along with the next 7 hours consisting of the condition, and projected temperature. After a user toggles the 10 day forecast, they see the condition along with the projected high and low temperatures.
