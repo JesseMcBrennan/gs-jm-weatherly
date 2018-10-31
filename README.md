@@ -5,6 +5,8 @@
 
 Weatherly is a dynamic, front-end react application that uses real-time weather data to present the current, 7 hour, and 10 day weather forecasts. It was built using ReactJS.
 
+<img src="https://github.com/JesseMcBrennan/gs-jm-weatherly/blob/master/weatherly-ui-ux.gif">
+
 <img src="https://i.imgur.com/0IJDydV.png" width='600px'>
 
 <img src="https://i.imgur.com/tTR2nkE.jpg" width='600px'>
